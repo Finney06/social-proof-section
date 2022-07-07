@@ -142,7 +142,7 @@ h1 {
 
 
 /* mobile viewport */
-@media (max-width: 375px) {
+@media (max-width: 550px) {
     main {
         max-width:375px;
         padding-top: 4rem;
